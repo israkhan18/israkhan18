@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Isra Khan
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning .NET and Computer Networking 
 - 📫 How to reach me khanisra1822@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 israkhan18/israkhan18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
